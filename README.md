@@ -26,4 +26,3 @@ Founder: Smitt
 
 ---
 
-Built Brick by Brick 🧱# Aura-lite
